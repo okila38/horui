@@ -1,0 +1,7 @@
+echo "# horui" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git ブランチ -M main 
+git リモート add オリジンhttps://github.com/okila38/horui.git
+ git Push -原点メイン
